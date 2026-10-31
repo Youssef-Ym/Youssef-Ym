@@ -1,16 +1,23 @@
-## Hi there 👋
+# Youssef Mohamed Abdelsalam
 
-<!--
-**Youssef-Ym/Youssef-Ym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior .NET Developer** focused on building practical web applications with **ASP.NET Core MVC, C#, Entity Framework Core, and SQL Server**.
 
-Here are some ideas to get you started:
+I enjoy turning requirements into maintainable applications, with attention to clear architecture, reliable data access, and responsive user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- [Gym Management System](https://github.com/Youssef-Ym/ItiFinalProjectMvcGym) — ASP.NET Core MVC application for managing members, trainers, classes, schedules, and enrollment. Uses layered architecture and Entity Framework Core.
+- [E-Shop](https://github.com/Youssef-Ym/E-Shop) — E-commerce application with product browsing, cart, checkout, order processing, and administration.
+- [Online Education Website](https://github.com/Youssef-Ym/Projct-1) — Responsive HTML and CSS landing page for an online learning platform.
+
+## Technologies
+
+**Backend:** C#, ASP.NET Core MVC, Entity Framework Core  
+**Data:** Microsoft SQL Server  
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+**Practices:** Clean Architecture, Repository Pattern, responsive design
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/youssef-mohamed-abdelsalam)
+- [GitHub](https://github.com/Youssef-Ym)
